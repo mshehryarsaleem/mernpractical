@@ -1,0 +1,2 @@
+# mernpractical
+start mern stack 
